@@ -1,3 +1,4 @@
+#!/usr/bin/env nextflow
 
 /* 
  * Main paraMSA pipeline script
